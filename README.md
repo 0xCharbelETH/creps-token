@@ -5,7 +5,8 @@
 
 ## 🔹 Introduction  
 
-**$CREPS** est un token ERC-20 déployé sur la blockchain **Polygon**. Ce dépôt contient le code source vérifié du contrat afin de le rendre public et open-source pour la communauté des développeurs.  
+**$CREPS** est un token ERC-20 déployé sur la blockchain **Polygon**.
+Ce dépôt contient le code source vérifié du contrat afin de le rendre public et open-source pour la communauté des développeurs.  
 
 ## ⚡ Spécifications du Token  
 
@@ -13,12 +14,13 @@
 - **Symbole** : $CREPS  
 - **Blockchain** : Polygon (Matic)  
 - **Standard** : ERC-20  
-- **Contrat** : [0x...](https://polygonscan.com/address/0xE501cFE5D0e2F9E0E1EA22a13e080b932DBBCD55)  
-- **Supply Total** : [XXXXX](https://polygonscan.com/token/0xE501cFE5D0e2F9E0E1EA22a13e080b932DBBCD55)  
+- **Contrat** : 0xE501cFE5D0e2F9E0E1EA22a13e080b932DBBCD55  
+- **Supply Total** : https://polygonscan.com/token/0xE501cFE5D0e2F9E0E1EA22a13e080b932DBBCD55  
 
 ## 📜 Smart Contract  
 
-Le code source du contrat est disponible dans le fichier [`CREPS.sol`](./CREPS.sol). Il est conforme aux standards ERC-20 et vérifié sur **Polygonscan**.  
+Le code source du contrat est disponible dans le fichier creps-token
+Il est conforme aux standards ERC-20 et vérifié sur **Polygonscan**.  
 
 ## 🚀 Installation & Utilisation  
 
